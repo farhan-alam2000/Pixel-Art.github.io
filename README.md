@@ -1,6 +1,7 @@
 # Pixel Art Editor
 
 A clean and intuitive pixel art editor you can use in the browser.
+
 Website link - https://farhan-alam2000.github.io/Pixel-Art.github.io/
 
 Features - 
